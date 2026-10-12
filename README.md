@@ -20,7 +20,7 @@ GeeksforGeeks, and HackerRank.
 <summary><strong>🟢 GeeksforGeeks Solutions</strong></summary>
 
 <!-- GFG_START -->
-No solutions added yet.
+- [key-pair](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Hash/key-pair)
 <!-- GFG_END -->
 
 </details>
