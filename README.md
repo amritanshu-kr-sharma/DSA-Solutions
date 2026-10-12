@@ -21,6 +21,7 @@ GeeksforGeeks, and HackerRank.
 
 <!-- GFG_START -->
 - [key-pair](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Hash/key-pair)
+- [cyclically-rotate-an-array-by-one](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Arrays/cyclically-rotate-an-array-by-one)
 <!-- GFG_END -->
 
 </details>
