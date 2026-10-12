@@ -10,6 +10,7 @@ GeeksforGeeks, and HackerRank.
 
 <!-- LEETCODE_START -->
 - [0242-valid-anagram](https://github.com/amritanshu-kr-sharma/Leetcode/tree/main/LeetCode/Solutions/0242-valid-anagram)
+- [0001-two-sum](https://github.com/amritanshu-kr-sharma/Leetcode/tree/main/LeetCode/Solutions/0001-two-sum)
 <!-- LEETCODE_END -->
 
 </details>
