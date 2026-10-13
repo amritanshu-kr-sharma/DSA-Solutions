@@ -23,6 +23,8 @@ GeeksforGeeks, and HackerRank.
 <!-- GFG_START -->
 - [key-pair](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Hash/key-pair)
 - [cyclically-rotate-an-array-by-one](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Arrays/cyclically-rotate-an-array-by-one)
+- [squares-in-reactangle](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Mathematics/squares-in-reactangle)
+- [adding-ones](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Arrays/adding-ones)
 <!-- GFG_END -->
 
 </details>
