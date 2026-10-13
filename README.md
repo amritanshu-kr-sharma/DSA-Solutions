@@ -12,6 +12,7 @@ GeeksforGeeks, and HackerRank.
 - [0242-valid-anagram](https://github.com/amritanshu-kr-sharma/Leetcode/tree/main/LeetCode/Solutions/0242-valid-anagram)
 - [0001-two-sum](https://github.com/amritanshu-kr-sharma/Leetcode/tree/main/LeetCode/Solutions/0001-two-sum)
 - [2844-sum-of-squares-of-special-elements](https://github.com/amritanshu-kr-sharma/Leetcode/tree/main/LeetCode/Solutions/2844-sum-of-squares-of-special-elements)
+- [3727-maximum-alternating-sum-of-squares](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/LeetCode/Solutions/3727-maximum-alternating-sum-of-squares)
 <!-- LEETCODE_END -->
 
 </details>
