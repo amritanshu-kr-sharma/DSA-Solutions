@@ -26,6 +26,7 @@ GeeksforGeeks, and HackerRank.
 - [cyclically-rotate-an-array-by-one](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Arrays/cyclically-rotate-an-array-by-one)
 - [squares-in-reactangle](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Mathematics/squares-in-reactangle)
 - [adding-ones](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Arrays/adding-ones)
+- [roll-the-characters-of-a-string](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Strings/roll-the-characters-of-a-string)
 <!-- GFG_END -->
 
 </details>
