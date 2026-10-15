@@ -27,6 +27,7 @@ GeeksforGeeks, and HackerRank.
 - [squares-in-reactangle](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Mathematics/squares-in-reactangle)
 - [adding-ones](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Arrays/adding-ones)
 - [roll-the-characters-of-a-string](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Strings/roll-the-characters-of-a-string)
+- [geek-hates-too-many-1s](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Bit_Magic/geek-hates-too-many-1s)
 <!-- GFG_END -->
 
 </details>
