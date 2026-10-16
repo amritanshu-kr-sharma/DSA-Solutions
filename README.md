@@ -14,6 +14,7 @@ GeeksforGeeks, and HackerRank.
 - [2844-sum-of-squares-of-special-elements](https://github.com/amritanshu-kr-sharma/Leetcode/tree/main/LeetCode/Solutions/2844-sum-of-squares-of-special-elements)
 - [3727-maximum-alternating-sum-of-squares](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/LeetCode/Solutions/3727-maximum-alternating-sum-of-squares)
 - [3723-maximize-sum-of-squares-of-digits](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/LeetCode/Solutions/3723-maximize-sum-of-squares-of-digits)
+- [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/LeetCode/Solutions/2916-subarrays-distinct-element-sum-of-squares-ii)
 <!-- LEETCODE_END -->
 
 </details>
