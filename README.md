@@ -30,6 +30,7 @@ GeeksforGeeks, and HackerRank.
 - [roll-the-characters-of-a-string](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Strings/roll-the-characters-of-a-string)
 - [geek-hates-too-many-1s](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Bit_Magic/geek-hates-too-many-1s)
 - [count-always-found](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Arrays/count-always-found)
+- [check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/GeeksforGeeks/Greedy/check-if-it-is-possible-to-convert-one-string-into-another-with-given-constraints)
 <!-- GFG_END -->
 
 </details>
