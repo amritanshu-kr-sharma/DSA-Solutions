@@ -16,6 +16,7 @@ GeeksforGeeks, and HackerRank.
 - [3723-maximize-sum-of-squares-of-digits](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/LeetCode/Solutions/3723-maximize-sum-of-squares-of-digits)
 - [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/LeetCode/Solutions/2916-subarrays-distinct-element-sum-of-squares-ii)
 - [0002-add-two-numbers](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/LeetCode/Solutions/0002-add-two-numbers)
+- [0167-two-sum-ii-input-array-is-sorted](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/LeetCode/Solutions/0167-two-sum-ii-input-array-is-sorted)
 <!-- LEETCODE_END -->
 
 </details>
