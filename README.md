@@ -17,6 +17,7 @@ GeeksforGeeks, and HackerRank.
 - [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/LeetCode/Solutions/2916-subarrays-distinct-element-sum-of-squares-ii)
 - [0002-add-two-numbers](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/LeetCode/Solutions/0002-add-two-numbers)
 - [0167-two-sum-ii-input-array-is-sorted](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/LeetCode/Solutions/0167-two-sum-ii-input-array-is-sorted)
+- [0075-sort-colors](https://github.com/amritanshu-kr-sharma/DSA-Solutions/tree/main/LeetCode/Solutions/0075-sort-colors)
 <!-- LEETCODE_END -->
 
 </details>
